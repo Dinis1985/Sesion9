@@ -10,7 +10,7 @@ int M = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Введите целое положительное число N:");
 int N = Convert.ToInt32(Console.ReadLine());
 
-void SumNaturalNumber(int numM, int numN, int sum)
+void SumNaturalNumber(int numM, int numN,int sum )
 {
     if (numM > numN)
     {
